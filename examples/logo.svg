@@ -1,0 +1,8 @@
+<svg height="100" width="100">
+      <svg height="100" width="100">
+        <polygon points="50,0 100,100 0,100" style="fill:green;stroke:black;stroke-width:3" />
+        </svg>
+      <g transform="translate(42.5, 60)"><svg height="100" width="100">
+        <text x="0" y="15" fill="white">LTH</text>
+        </svg></g>
+      </svg>
